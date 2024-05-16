@@ -1,16 +1,14 @@
-### Hi there 👋
+### Olá! Meu nome é Amanda!
 
-<!--
-**Lopes-Amanda/Lopes-Amanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Entrei para a equipe da empresa Bonfire em 2022, logo quando ela surgiu, e atuo como Designer de Produtos desde então. Tenho formação técnica em Programação de Jogos Digitais e conhecimentos em criação de arte 3D e 2D. Também possuo uma Qualificação em Design Gráfico Editorial e atualmente estou cursando faculdade de Jogos Digitais. Estou sempre em busca de aprimorar meus conhecimentos e evoluir constantemente.
 
-Here are some ideas to get you started:
+##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Informaçãoes Gerais:
+
+- 🔭 Atuo como Designer de Produtos na empresa Bonfire
+- 🎨 Artista 3D e 2D
+- 🎮 Cursando Jogos Digitais
+- 😄 Pronomes: ela/dela
+- 🚀 Em busca de evolução
+
